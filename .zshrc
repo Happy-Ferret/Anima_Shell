@@ -12,3 +12,6 @@ zstyle :compinstall filename '/home/$USER/.zshrc'
 autoload -Uz compinit
 compinit
 # End of lines added by compinstall
+
+#Plugins
+source ./.shell/plugins/aliases

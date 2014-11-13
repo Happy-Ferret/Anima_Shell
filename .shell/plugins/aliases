@@ -1,0 +1,8 @@
+#Edit
+alias -s sh=vi
+alias -s txt=vi
+alias -s md=vi
+
+#View
+
+#Run
