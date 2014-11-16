@@ -15,3 +15,4 @@ compinit
 
 #Plugins
 source ./.shell/plugins/aliases
+source ./.shell/plugins/prompt
